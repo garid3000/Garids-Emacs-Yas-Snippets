@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: x-xargs
+# key: <x
+# --
+| xargs -I {} sh -c "${1:_cmd_}"

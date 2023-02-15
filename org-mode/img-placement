@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: org-img-place-dont-let-it-move
+# key: <img-p
+# --
+#+attr_latex: :placement [H]

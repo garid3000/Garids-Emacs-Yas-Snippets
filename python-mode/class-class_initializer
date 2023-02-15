@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: cl-class_initializer
+# key: <cl
+# --
+class ${1:classname}:
+	  """${2:description_string}"""
+	  def __init__(self$3):
+	  	  $0

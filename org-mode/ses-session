@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: ses-session
+# key: :ses
+# --
+:session ${1:garidssess}

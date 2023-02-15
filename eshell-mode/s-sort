@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: s-sort
+# key: <s
+# --
+| sort 

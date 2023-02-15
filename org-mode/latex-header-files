@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: latex-header-files
+# key: <latex
+# --
+#+LATEX_CLASS: ${1:$$(yas-choose-value '("article" "book"))}
+#+LATEX_CLASS_OPTIONS: [${2:$$(yas-choose-value '("a4paper" "letter"))}]
+#+LATEX_HEADER: \usepackage[utf8x]{inputenc}
+#+LATEX_HEADER: \usepackage[english,mongolian]{babel}
+#+LATEX_HEADER: \usepackage{xfrac}            <= \sfrac
+#+LATEX_HEADER: \usepackage{physics}          <= \dd, \dv \pdv
+#+LATEX_HEADER: \usepackage{derivative}       <= \pdv[order={i,j,k}]{f}{x,y,z}

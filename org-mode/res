@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: org-src-blocks-results
+# key: :res
+# --
+:results ${1:$$(yas-choose-value '("verbatim" "value" "output" "table" "file"))}

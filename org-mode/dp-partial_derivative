@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name:	dp-partial_derivative 
+# key: <dp
+# --
+\pdv[$1]{${2:f}}{${3:x}}

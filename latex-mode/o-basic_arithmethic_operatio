@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: o-basic_arithmethic_operation
+# key: <o
+# --
+\\${1:$$(yas-choose-value '("pm" "mp" "times" "div"))}

@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: 5inc - includes common 5 libs
+# key: 5inc
+# --
+#include <errno.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <unistd.h>

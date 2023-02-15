@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: ret-return 
+# key: ret
+# --
+return ${1:value};

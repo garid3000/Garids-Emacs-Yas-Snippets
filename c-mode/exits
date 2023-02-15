@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: exit_s - exit with success 
+# key: exits
+# --
+return(EXIT_SUCCESS);

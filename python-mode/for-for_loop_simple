@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: fo-for_loop
+# key: <fo
+# --
+for $1 in $2:
+	$0

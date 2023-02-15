@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: open-opening_file
+# key: <open
+# --
+if ((${1:fd} = open(${2:path}, ${3:FLAGS}))<0) {
+   perror("${4:Error while openning}");
+   exit(${5:EXIT_FAILURE});
+}$0
+
+(void)close($1); //Closing $1 at same {}

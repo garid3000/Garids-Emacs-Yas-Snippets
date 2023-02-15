@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: gry-org-img
+# key: <img
+# --
+#+caption: ${1:The Caption} 
+#+name:    fig:${2:Name/ID to refer in org file}

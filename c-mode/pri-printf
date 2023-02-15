@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: pri - printf
+# key: <pri
+# --
+printf("$1", $2);
+$0

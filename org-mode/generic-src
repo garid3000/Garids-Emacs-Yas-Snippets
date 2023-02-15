@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: src-block
+# key: <s
+# --
+#+begin_src ${1:$$(yas-choose-value '("text" "example" "shell" "python" "bash" "c"))}
+$0
+#+end_src

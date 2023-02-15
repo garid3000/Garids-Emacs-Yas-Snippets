@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: alt-alternate
+# key: <alt
+# --
+\\${1:$$(yas-choose-value '("ast" "star" "'"))}

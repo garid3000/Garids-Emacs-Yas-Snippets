@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: ef-elif-condition
+# key: <ef
+# --
+elif ${1:condition}:
+   $0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: def-default_font
+# key: <def
+# --
+node [fontname="${1:$$(yas-choose-value '(\"Linux Libertine\" \"CMU\"))}"];      //font for nodes
+edge [fontname="$1"];      //font for edge
+fontname="$1"              //font for cluster label

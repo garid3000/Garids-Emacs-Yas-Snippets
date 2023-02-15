@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: im-import_common_libs
+# key: <im
+# --
+import ${1:$$(yas-choose-value '("numpy" "matplotlib" "pandas" "os" "sys" "pickle" "os.path" "pathlib"))}

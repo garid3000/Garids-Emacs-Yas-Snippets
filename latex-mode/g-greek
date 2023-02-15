@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: g-greek
+# key: <g
+# --
+\\${1:$$(yas-choose-value '("alpha" "beta" "gamma" "epsilon" "theta" "phi" "psi" "eta" "nu"))}

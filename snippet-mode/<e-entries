@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: <e-entries
+# key: <e
+# --
+\$\{$1:${2:description}\}

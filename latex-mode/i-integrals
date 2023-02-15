@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: i-iterations
+# key: <i
+# --
+\\${1:$$(yas-choose-value
+'("int" "iint" "oint" "oiint" "varoiint" "Big|" "sum" "prod"))
+} 

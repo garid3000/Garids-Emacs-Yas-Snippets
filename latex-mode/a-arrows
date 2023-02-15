@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name: a-arrows
+# key: <a
+# --
+\\${1:$$(yas-choose-value
+	'("\rightarrow" "Rightarrow"
+	"leftarrow" "Leftarrow"
+	"leftrightarrow" "Leftrightarrow"
+	"downarrow" "Downarrow"
+	"uparrow" "Uparrow"
+	"uownuparrow" "Downuparrow"
+))}

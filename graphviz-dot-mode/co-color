@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: co-color
+# key: <co
+# --
+${1:$$(yas-choose-value '("color" "fillcolor"))}=${2:$$(yas-choose-value '("gray" "red" "blue" "yellow" "green"))}

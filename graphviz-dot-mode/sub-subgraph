@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: sub-subgraph 
+# key: <sub
+# --
+subgraph ${1:cluster_names} {
+		 label="${2:label}";
+		 $0
+}

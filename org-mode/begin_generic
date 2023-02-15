@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: begin_something
+# key: <beg
+# --
+#+begin_${1:$$(yas-choose-value '("verse" "example"))}
+#+end_${1:$$(yas-choose-value '("verse" "example"))}

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: org-src-export
+# key: :exp
+# --
+:exports ${1:$$(yas-choose-value '("code" "results" "both" "none"))}

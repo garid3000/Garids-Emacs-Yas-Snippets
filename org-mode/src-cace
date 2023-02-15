@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: src-cache
+# key: :cac
+# --
+:cache yes

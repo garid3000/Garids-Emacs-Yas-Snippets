@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: c-cases_aka_multi_columns
+# key: <c
+# --
+\begin{cases}
+	${1:a}
+		& \text\{if \$ ${2:_condition} \$\} \\\\
+	${3:b}
+		& \text\{else} \\\\
+\end{cases} 

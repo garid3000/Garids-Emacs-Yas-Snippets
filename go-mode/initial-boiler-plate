@@ -1,0 +1,13 @@
+# -*- mode: snippet -*-
+# name: boiler-plate
+# key: init
+# --
+package main
+
+import (
+	"fmt"
+)
+
+func main(){
+	 $0	
+}
