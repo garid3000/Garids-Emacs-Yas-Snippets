@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: func-function_decleration
+# key: <func
+# --
+func ${1:function_name}(${2:args}){
+	 $0
+}

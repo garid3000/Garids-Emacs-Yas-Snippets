@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: <f-function declaration
+# name: f-function_declaration
 # key: <f
 # --
 ${1:$$(yas-choose-value '("int" "char" "float" "uint8"))}

@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
-# name: boiler-plate
-# key: init
+# name: init-initial_boiler_plate_code
+# key: <init
 # --
 package main
 

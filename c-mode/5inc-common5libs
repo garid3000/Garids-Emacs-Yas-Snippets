@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: 5inc - includes common 5 libs
+# name: 5inc-includes_common_5_libs
 # key: 5inc
 # --
 #include <errno.h>

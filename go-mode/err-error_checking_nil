@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
-# name: error-nil
-# key: err
+# name: err-error_checking_nil
+# key: <err
 # --
 if err != nil {
    log.Fatal(err)
