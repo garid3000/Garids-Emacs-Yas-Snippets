@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
 # name: e-environment
-# key: <e
+# key: e
 # --
 \begin{${1:$$(yas-choose-value '("equation" "align*" "bmatrix" "vmatrix" "matrix" "pmatrix" "document"))}}
   $0

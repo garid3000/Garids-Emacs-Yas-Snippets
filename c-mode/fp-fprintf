@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
-# name: fpr - fprintf
-# key: <fpr
+# name: fpr-fprintf
+# key: fp
 # --
 fprintf(${1:$$(yas-choose-value '("stderr" "stdout"))}, "${2:asdf}\n", $3);
 $0

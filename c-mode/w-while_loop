@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: w-while_loop 
+# key: w
+# --
+while (${1:condition}) {
+	$0
+}

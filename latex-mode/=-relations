@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: <r-relations
-# key: <r
+# name: =-relations
+# key: =
 # --
 \\${1:$$(yas-choose-value '("leq" "geq" "neq" "ll" "gg" "approx" "equiv" "doteq" "sim" "simeq" "nsim"))}

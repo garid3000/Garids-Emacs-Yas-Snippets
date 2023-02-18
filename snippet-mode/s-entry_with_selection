@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: <s-entry_with_selection
-# key: <s
+# name: s-entry_with_selection
+# key: s
 # --
 \$\{$1:\$\$(yas-choose-value \'(\"$2\" \"$3\"))\}

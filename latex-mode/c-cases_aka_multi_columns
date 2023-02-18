@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
 # name: c-cases_aka_multi_columns
-# key: <c
+# key: c
 # --
 \begin{cases}
 	${1:a}

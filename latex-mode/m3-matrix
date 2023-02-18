@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
 # name: m3-matrix
-# key: <m3
+# key: m3
 # --
 \begin\{${1:$$(yas-choose-value '("b" "v" "" "p"))}matrix\}
 	${2:a_\{1,1\}} & ${3:a_\{1,2\}} & ${4:a_\{1,3\}}\\\\

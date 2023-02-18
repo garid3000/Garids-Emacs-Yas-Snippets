@@ -1,7 +1,0 @@
-# -*- mode: snippet -*-
-# name: <()-brackets
-# key: <()
-# --
-\left(
-  $0
-\right)

@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: <e-entries
-# key: <e
+# name: e-entries
+# key: e
 # --
 \$\{$1:${2:description}\}

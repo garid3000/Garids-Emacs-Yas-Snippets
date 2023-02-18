@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
 # name: sh-shape_of_node 
-# key: <sh
+# key: sh
 # --
 shape=${1:$$(yas-choose-value '("rectangle" "circle"))}

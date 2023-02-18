@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: i-int
+# key: i
+# --
+int $0

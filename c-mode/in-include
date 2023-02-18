@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name:in-include_lib
+# key: in
+# --
+#include <${1:stdio}.h>
+$0

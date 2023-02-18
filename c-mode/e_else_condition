@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: e-else_condition
+# key: e
+# --
+else ${1:$$(yas-choose-value '("{${2:sfd}}" ""))}

@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
 # name: init-initial_boiler_plate_code
-# key: <init
+# key: init
 # --
 digraph {
 		$0

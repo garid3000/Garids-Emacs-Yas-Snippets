@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
 # name: f-fraction
-# key: <f
+# key: f
 # --
 \frac{${1:top}}{${2:bottom}}

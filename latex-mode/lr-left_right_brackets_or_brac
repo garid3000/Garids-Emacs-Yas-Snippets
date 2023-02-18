@@ -1,7 +1,0 @@
-# -*- mode: snippet -*-
-# name: lr-left_right_brackets_or_braces
-# key: <lr
-# --
-\\left${1:\(}
-	$0
-\\right${1:$(pcase yas-text ("(" ")") ("[" "]") ("{" "a") ("|" "|"))}

@@ -1,8 +1,9 @@
 # -*- mode: snippet -*-
-# name: m2-matrix
-# key: m2
+# name: m31-matrix
+# key: m31
 # --
 \begin\{${1:$$(yas-choose-value '("b" "v" "" "p"))}matrix\}
-	${2:a_\{1,1\}} & ${3:a_\{1,2\}} \\\\
-	${4:a_\{2,1\}} & ${5:a_\{2,2\}} \\\\
+	${2:a_\{1\}} \\\\
+	${3:a_\{2\}} \\\\
+	${4:a_\{3\}} \\\\
 \end\{$1matrix\}

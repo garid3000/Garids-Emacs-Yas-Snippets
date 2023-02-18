@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
-# name: main - main function decleration
-# key: <main
+# name: init-initial_main_function_decleration
+# key: init
 # --
 int
 main(int argc, char** argv){
