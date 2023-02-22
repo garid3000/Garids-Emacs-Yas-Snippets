@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: --arrow
+# key: -
+# --
+-> ${1:id} [$0];

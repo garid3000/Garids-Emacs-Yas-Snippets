@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: no-node_creation
-# key: no
+# name: n-node_creation
+# key: n
 # --
 ${1:id} [label="${2:str}"$0]

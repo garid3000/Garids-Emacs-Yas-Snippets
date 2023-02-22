@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: nz-np_zeros
+# key: nz
+# --
+np.zeros((${1:shape}, ${2:shape}), dtype='${3:$$(yas-choose-value '("uint8" "float" "int"))}')

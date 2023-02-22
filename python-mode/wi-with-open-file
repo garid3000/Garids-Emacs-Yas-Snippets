@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
 # name: wi-with-open-file
-# key: <wi
+# key: wi
 # --
 with ${1:open(${2:fname.txt})} as ${3:file}:
 	 ${4:contents=$3.read()}

@@ -1,8 +1,8 @@
 # -*- mode: snippet -*-
-# name: f-function_declaration
-# key: f
+# name: fu-function_declaration
+# key: fu
 # --
-${1:$$(yas-choose-value '("int" "char" "float" "uint8"))}
-${2:function name} (${3:args}) {
+${1:$$(yas-choose-value '("int" "char" "float" "uint8" "void"))}
+${2:function name}(${3:args}) {
 	$0
 }

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: l-label
+# key: l
+# --
+label="${1:description}"

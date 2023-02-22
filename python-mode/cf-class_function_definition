@@ -1,7 +1,6 @@
 # -*- mode: snippet -*-
 # name: cf-class_function_definition
-# key: <cf
+# key: cf
 # --
 self.${1:funcname}(self, ${2:args}) -> ${3:$$(yas-choose-value '("int" "str" "None"))}:
-$>$0
-
+	$0

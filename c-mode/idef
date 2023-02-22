@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: idef-ifndef 
+# key: idef
+# --
+#ifndef ${1:$$(upcase yas-text)}
+#define $1 $2
+#endif

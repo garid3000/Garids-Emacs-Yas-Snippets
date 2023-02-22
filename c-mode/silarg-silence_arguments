@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: silarg - silence arguments's warnings
+# name: silarg-silence_arguments_warnings
 # key: silarg
 # --
 (void)argc;

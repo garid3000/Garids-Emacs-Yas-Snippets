@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: as-arrow_head_tail_shape
+# key: as
+# --
+${1:$$(yas-choose-value '("arrowhead" "arrowtail"))}=${2:$$(yas-choose-value '("box" "crow" "curve" "diamond" "dot" "icurve" "inv" "none" "normal" "tee" "vee"))} $0

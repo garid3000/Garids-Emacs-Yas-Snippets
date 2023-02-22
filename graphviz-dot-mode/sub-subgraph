@@ -2,7 +2,7 @@
 # name: sub-subgraph 
 # key: sub
 # --
-subgraph ${1:cluster_names} {
-		 label="${2:label}";
-		 $0
+subgraph ${1:cluster_}${2:number} {
+	label="${3:label_for_subgraph}";
+	$0
 }

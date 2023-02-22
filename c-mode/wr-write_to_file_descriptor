@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: wr-write_to_file_descriptor
+# key: wr
+# --
+write(${1:fd}, ${2:buf}, ${3:num});

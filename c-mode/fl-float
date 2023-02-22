@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: f-float
+# key: f
+# --
+float $0

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: c-char
+# key: c
+# --
+char $0

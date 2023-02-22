@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name: s-shape_of_node 
+# key: s
+# --
+shape=${1:$$(yas-choose-value '(
+"box" "polygon" "ellipse" "oval" "circle" "point" "egg" "triangle"
+"plaintext" "plain" "diamond" "trapezium" "parallelogram" "house"
+"pentagon" "hexagon" "septagon" "octagon" "doublecircle" "doubleoctagon"
+"tripleoctagon" "invtriangle" "invtrapezium" "invhouse" "rect" "square"
+"start" "none" "underline" "cylinder" "note" "tab" "folder" "box3d"
+"component" "prometer" "cds" "rarrow" "larrow" "rpromoter" "lpromoter"
+"signature" "insulator"))}

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: nm-np.mean
+# key: nm
+# --
+np.mean(${1:description}, axis=${2:0})

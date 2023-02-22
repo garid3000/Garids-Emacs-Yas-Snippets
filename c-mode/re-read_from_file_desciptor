@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: re-read_from_file_desciptor
+# key: re
+# --
+read(${1:fd}, ${2:buf}, ${3:num});

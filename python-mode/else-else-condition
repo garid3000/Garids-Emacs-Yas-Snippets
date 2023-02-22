@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
 # name: el-else-condition
-# key: <el
+# key: el
 # --
 else:
    $0

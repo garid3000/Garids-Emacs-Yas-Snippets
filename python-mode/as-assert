@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
 # name: as-assert
-# key: <as
+# key: as
 # --
 assert ${1:Expr}, f'Expected ${2:value} but got {${3:var}=}'

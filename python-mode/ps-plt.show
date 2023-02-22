@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: ps-plt.show 
+# key: ps
+# --
+plt.show()

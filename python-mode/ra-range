@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
 # name: ra-range
-# key: <ra
+# key: ra
 # --
 ${1:$$(yas-choose-value '("range" "np.arange"))}(${2:from_to_step})

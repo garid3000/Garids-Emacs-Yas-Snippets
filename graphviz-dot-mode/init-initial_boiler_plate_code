@@ -3,5 +3,5 @@
 # key: init
 # --
 digraph {
-		$0
+	$0
 }

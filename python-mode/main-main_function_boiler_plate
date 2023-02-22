@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
 # name: main-main_function_boiler_plate
-# key: <main
+# key: init
 # --
 import sys
 

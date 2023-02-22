@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: nst-np.savetxt 
+# key: nst
+# --
+np.savetxt("${1:fname}.${2:csv}", ${3:data}, fmt='%10.4f', delimiter=${4:$$(yas-choose-value '("," "\\t"))} header=${5:""})

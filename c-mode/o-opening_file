@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
 # name: o-opening_file
-# key: 0
+# key: o
 # --
 if ((${1:fd} = open(${2:path}, ${3:FLAGS}))<0) {
    perror("${4:Error while openning}");
