@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
-# name: m2-matrix
-# key: m2
+# name: m22-matrix
+# key: m22
 # --
 \begin\{${1:$$(yas-choose-value '("b" "v" "" "p"))}matrix\}
 	${2:a_\{1,1\}} & ${3:a_\{1,2\}} \\\\

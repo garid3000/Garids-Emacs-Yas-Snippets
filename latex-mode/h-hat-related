@@ -3,5 +3,5 @@
 # key: h
 # --
 \\${1:$$(yas-choose-value '("hat" "dot" "ddot" "vec" "bar" "tilde" "overline" "widehat" "overbrace" "underbrace"))} {
-$0
+	$0
 }
