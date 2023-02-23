@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: try-try_except
+# key: try
+# --
+try:
+	${3:code}
+	$0
+except ${1:$$(yas-choose-value '("ValueError" "TypeError" "NameError" "FileNotFoundError"))}:
+	${2:ErrorHandling}

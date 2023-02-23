@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: m-message
+# key: m
+# --
+(message "${1:your-text}" $0)

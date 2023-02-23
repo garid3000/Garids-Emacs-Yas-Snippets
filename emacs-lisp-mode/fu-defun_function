@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fu-defun_function
+# key: fu
+# --
+(defun ${1:function_name} (${2:arg})
+	$0
+)

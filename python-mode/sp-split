@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: sp-split
+# key: .sp
+# --
+.split("${1:$$(yas-choose-value '(" " "," "\\t" "\n"))}")
+$0

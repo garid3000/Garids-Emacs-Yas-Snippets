@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
 # name: wh-while_loop
-# key: <wh
+# key: wh
 # --
 while $1:
 	  $0

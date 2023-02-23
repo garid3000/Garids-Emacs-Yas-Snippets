@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: l-list 
+# key: l
+# --
+(list ${1:elements})

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: &-new_aligned_line
+# key: &
+# --
+&
+	$0
+\\\\
