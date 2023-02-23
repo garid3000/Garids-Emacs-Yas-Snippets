@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
 # name: fu-function_decleration
-# key: f
+# key: fu
 # --
 def ${1:func_name}(${2:args}) -> ${3:$$(yas-choose-value '("int" "str" "float" "None" "bool" "()"))}:
 	$0

@@ -2,5 +2,5 @@
 # name: cf-class_function_definition
 # key: cf
 # --
-self.${1:funcname}(self, ${2:args}) -> ${3:$$(yas-choose-value '("int" "str" "None"))}:
+self.${1:funcname}(self, ${2:args}) -> ${3:$$(yas-choose-value '("int" "str" "None" "float" "bool"))}:
 	$0
