@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: O-opening_flags 
+# key: O
+# --
+${1:$$(yas-choose-value '("O_RDONLY" "O_WRONLY" "O_RDWR"
+                          "O_APPEND" "O_CREAT" "O_TRUNC" "O_EXCL" "O_NONBLOCK" "O_SYNC"))}

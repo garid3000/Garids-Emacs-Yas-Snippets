@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: .s-numpy_shape
+# name: .s-shape
 # key: .s
 # --
 .shape

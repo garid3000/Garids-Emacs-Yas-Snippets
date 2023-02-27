@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: se-strerror
+# key: se
+# --
+strerror(${1:errno})$0

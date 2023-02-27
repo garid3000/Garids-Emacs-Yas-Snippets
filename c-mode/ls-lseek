@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: ls-lseek
+# key: ls
+# --
+lseek(${1:fd}, ${2:number}, ${3:$$(yas-choose-value '("SEEK_SET" "SEEK_CUR" "SEEK_END"))});

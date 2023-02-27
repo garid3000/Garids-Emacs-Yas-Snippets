@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: .s-np_array_shape
+# name: .s-ndarray_shape
 # key: .s
 # --
 .shape

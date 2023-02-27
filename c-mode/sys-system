@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: sys-system
+# key: sys
+# --
+system("${1:ls}");
+$0
