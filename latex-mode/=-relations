@@ -2,4 +2,15 @@
 # name: =-relations
 # key: =
 # --
-\\${1:$$(yas-choose-value '("leq" "geq" "neq" "ll" "gg" "approx" "equiv" "doteq" "sim" "simeq" "nsim"))}
+\\${1:$$(yas-choose-value '(
+	"leq" "geq"
+	"nleq" "ngeq" "neq"
+	"nless" "ngtr"
+	"ll" "gg"
+	"approx" "equiv"
+	"doteq"
+	"sim" "simeq" "nsim"
+	"stackrel\{?\}\{=\}"
+	"stackrel\{?\}\{\\\leq\}"
+	"stackrel\{?\}\{\\\geq\}"
+))}
