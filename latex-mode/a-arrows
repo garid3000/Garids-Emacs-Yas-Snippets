@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
-# name: --arrows
-# key: -
+# name: a-arrows
+# key: a
 # --
 \\${1:$$(yas-choose-value
 	'("\rightarrow" "Rightarrow"
