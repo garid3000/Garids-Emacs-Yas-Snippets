@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: fd-fraction_diagonale
+# key: fd
+# --
+^${1:1}/_${2:2} 

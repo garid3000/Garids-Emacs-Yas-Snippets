@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: atan-arctan
+# key: atan
+# --
+\arctan 

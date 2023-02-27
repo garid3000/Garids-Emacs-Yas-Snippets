@@ -2,4 +2,4 @@
 # name: t-text
 # key: t
 # --
-\\${1:$$(yas-choose-value '("text" "mathscr" "mathbb" "boldsymbol"))} \{${2:the_text}\} 
+\\${1:$$(yas-choose-value '("text" "mathscr" "mathbf" "boldsymbol"))} \{${2:the_text}\} 

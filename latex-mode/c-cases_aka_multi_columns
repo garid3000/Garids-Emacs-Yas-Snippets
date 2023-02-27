@@ -4,7 +4,7 @@
 # --
 \begin{cases}
 	${1:a}
-		& \text\{if \$ ${2:_condition} \$\} \\\\
+		& \text\{if \$ $2 \$\} \\\\
 	${3:b}
 		& \text\{else} \\\\
 \end{cases} 
