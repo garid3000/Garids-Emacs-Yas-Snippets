@@ -2,6 +2,6 @@
 # name: w-while_loop 
 # key: w
 # --
-while (${1:condition}) {
+while (${1:1}) {
 	$0
 }
