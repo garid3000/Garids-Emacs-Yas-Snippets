@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: ar-xymatrix_arrow
+# key: ar
+# --
+\ar$1[${2:r}]$0

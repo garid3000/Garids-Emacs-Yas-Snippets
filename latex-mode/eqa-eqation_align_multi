@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: eqa-equation
+# key: eqa
+# --
+\begin{equation}
+  \begin{align}
+	$0
+  \end{align}
+\end{equation}

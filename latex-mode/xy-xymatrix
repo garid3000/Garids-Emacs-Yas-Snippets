@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: xy-xymatrix
+# key: xy
+# --
+\xymatrix{
+	$0
+}
