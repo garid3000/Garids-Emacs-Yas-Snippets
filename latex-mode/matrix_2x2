@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: 2x2-entry
+# key: 2x2
+# --
+$1	&	$2	\\\\
+$3	&	$4

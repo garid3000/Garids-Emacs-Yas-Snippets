@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: 1x3-entry
+# key: 1x3
+# --
+$1	&	$2	&	$3	\\\\
