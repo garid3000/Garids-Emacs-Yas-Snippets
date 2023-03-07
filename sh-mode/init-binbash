@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: init-binbash
+# key: init
+# --
+#!/bin/bash
+$0
