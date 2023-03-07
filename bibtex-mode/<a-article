@@ -1,0 +1,16 @@
+# -*- mode: snippet -*-
+# name: <a-article
+# key: <a
+# --
+@article{$1_$11,
+ author = {${1:name(s)}},
+ doi = {${2:doi}},
+ journal = {${3:journal name}},
+ number = {${4:??}},
+ pages = {${5:from}--${6:to}},
+ publisher = {${7:Elsevier}},
+ title = {${8:Title}},
+ url = {${9:url}},
+ volume = {${10:journal_vol?}},
+ year = {${11:2020?}}
+}
