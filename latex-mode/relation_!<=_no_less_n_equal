@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: !<=-not_less_n_equal_leq
+# key: !<=
+# --
+\nleq 

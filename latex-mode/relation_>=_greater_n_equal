@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: >=-greater_n_equal_geq
+# key: >=
+# --
+\geq 
