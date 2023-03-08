@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: letterlike_nin_notin
+# key: nin
+# --
+\notin

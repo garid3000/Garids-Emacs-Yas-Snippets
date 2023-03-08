@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: hat-dot
+# key: dot
+# --
+\dot{ ${1:a} } 
