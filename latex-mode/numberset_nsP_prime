@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: numberset_nsP_prime
+# key: nsP
+# --
+\mathbb{P} 

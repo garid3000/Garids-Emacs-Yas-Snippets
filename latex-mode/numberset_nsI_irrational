@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: numberset_nsI_irrational
+# key: nsI
+# --
+\mathbb{I} 

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: numberset_nsC_complex
+# key: nsC
+# --
+\mathbb{C} 

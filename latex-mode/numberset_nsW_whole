@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: numberset_nsW_whole
+# key: nsW
+# --
+\mathbb{W} 

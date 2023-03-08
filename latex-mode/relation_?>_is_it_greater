@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: ?>_is_it_greater
+# key: ?>
+# --
+\stackrel{?}{>} 

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: numberset_nsN_natural
+# key: nsN
+# --
+\mathbb{N} 
