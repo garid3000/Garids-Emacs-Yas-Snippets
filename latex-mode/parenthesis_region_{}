@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: parenthesis_region_{}
+# binding: M-r { }
+# --
+\left{
+    `(replace-regexp-in-string "\n$" "" yas-selected-text)`
+\right}
+`(deactivate-mark)`$0
