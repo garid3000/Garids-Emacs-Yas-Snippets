@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: C-binom
+# key: C
+# --
+\binom{ ${1:n} }{ ${2:k} } 

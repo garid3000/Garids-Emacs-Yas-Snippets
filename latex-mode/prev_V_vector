@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: prev_V_vector
+# key: V
+# type: command
+# --
+(execute-kbd-macro [C-left ?\\ ?v ?e ?c ?\{ ?  escape ?e ?a ?  ?\}])
