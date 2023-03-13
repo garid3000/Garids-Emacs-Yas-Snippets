@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: prev_slash_frac
+# key: /
+# type: command
+# --
+(execute-kbd-macro [C-left ?\\ ?f ?r ?a ?c ?\{ C-right ?\} ?\{ ?\} left return return up tab])

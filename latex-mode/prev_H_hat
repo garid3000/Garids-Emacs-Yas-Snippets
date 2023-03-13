@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: prev_H_hat
+# key: H
+# type: command
+# --
+(execute-kbd-macro [C-left ?\\ ?h ?a ?t ?\{ ?  escape ?e ?a ?  ?\}]) 

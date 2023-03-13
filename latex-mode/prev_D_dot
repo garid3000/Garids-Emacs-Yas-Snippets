@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: prev_D_dot
+# key: D
+# type: command
+# --
+(execute-kbd-macro [C-left ?\\ ?d ?o ?t ?\{ ?  escape ?e ?a ?  ?\}])
