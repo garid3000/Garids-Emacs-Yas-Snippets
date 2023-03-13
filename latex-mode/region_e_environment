@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: region_e_environment
+# binding: M-r e
+# --
+\begin{${1:equation}}
+    `(replace-regexp-in-string "\n$" "" yas-selected-text)`
+\end{$1}
+`(deactivate-mark)`$0

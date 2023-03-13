@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: region_a_align
+# binding: M-r a
+# --
+\begin{align}
+    `(replace-regexp-in-string "\n$" "" yas-selected-text)`
+\end{align}
+`(deactivate-mark)`$0
