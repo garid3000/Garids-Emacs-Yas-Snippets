@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: physics_eval
+# key: eval
+# --
+\eval{$1}_{${2:0}}^{${3:\infty}} 

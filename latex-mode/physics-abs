@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: physics-abs
+# key: abs
+# --
+\abs{${1:x}} $0

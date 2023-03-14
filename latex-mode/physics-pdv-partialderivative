@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: physics-pdv-partialderivative
+# key: pdv
+# --
+\pdv[$1]{${2:f}}{${3:x}}
