@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: alat_alignat
+# key: alat
+# --
+\begin{alignat}{${1:2}}
+	& & & \\\\
+	& & & \\\\
+\end{alignat}
