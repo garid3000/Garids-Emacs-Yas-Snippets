@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: <lp-latexpackage
+# key: <lp
+# --
+#+LATEX_HEADER: \usepackage[utf8x]{${1:tikz}}
