@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: <bl-begin_export_latex
+# key: <bl
+# --
+#+begin_export latex
+$0
+#+end_export

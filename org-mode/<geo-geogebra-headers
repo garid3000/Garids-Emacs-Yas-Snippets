@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: <geo-geogebra-headers
+# key: <geo
+# --
+#+LATEX_HEADER: \usepackage{pgfplots}
+#+LATEX_HEADER: \pgfplotsset{compat=1.15}
+#+LATEX_HEADER: \usepackage{mathrsfs}
+#+LATEX_HEADER: \usetikzlibrary{arrows}
+#+LATEX_HEADER: \definecolor{uuuuuu}{rgb}{0.26666666666666666,0.26666666666666666,0.26666666666666666}

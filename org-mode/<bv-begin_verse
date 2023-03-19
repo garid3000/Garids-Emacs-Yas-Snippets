@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: <bv-begin_verse
+# key: <bv
+# --
+#+begin_verse
+$0
+#+end_verse

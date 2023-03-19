@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: <ba-begin_abstract 
+# key: <ba
+# --
+#+begin_abstract
+$0
+#+end_abstract

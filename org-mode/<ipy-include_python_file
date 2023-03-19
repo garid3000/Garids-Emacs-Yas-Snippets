@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: <ipy-include_python_file 
+# key: <ipy
+# --
+#+include: "${1:/home/garid/test.py}" src py

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: <bc-begin_center
+# key: <bc
+# --
+#+begin_center
+$0
+#+end_center
