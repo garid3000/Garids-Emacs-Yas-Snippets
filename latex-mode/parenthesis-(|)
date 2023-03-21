@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: (|)-brackets
+# key: (|)
+# --
+\left(
+	$1
+\\ \middle| \\ 
+	$0
+\right)
