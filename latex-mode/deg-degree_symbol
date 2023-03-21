@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: deg-degree_symbol
+# key: deg
+# --
+^\\circ
