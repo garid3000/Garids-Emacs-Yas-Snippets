@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: int-integral
+# key: int
+# --
+\\int\\limits_\{${1:-\\infty}\}^\{${2:\\infty}\}
