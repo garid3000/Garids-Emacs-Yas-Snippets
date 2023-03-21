@@ -3,4 +3,11 @@
 # key: V
 # type: command
 # --
-(execute-kbd-macro [C-left ?\\ ?v ?e ?c ?\{ ?  escape ?e ?a ?  ?\}])
+(backward-sexp) (kill-sexp) (backward-word)
+(if (= (preceding-char) ?\\ )
+	(progn (message "yes") (kill-word 1)
+		   (backward-delete-char 1) (insert "\\vec{\\")
+		   (yank 1) (yank 2) (insert "}"))
+(progn (message "no") (forward-word)
+       (insert "\\vec{") (yank) (insert "}"))
+)

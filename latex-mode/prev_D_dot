@@ -3,4 +3,11 @@
 # key: D
 # type: command
 # --
-(execute-kbd-macro [C-left ?\\ ?d ?o ?t ?\{ ?  escape ?e ?a ?  ?\}])
+(backward-sexp) (kill-sexp) (backward-word)
+(if (= (preceding-char) ?\\ )
+	(progn (message "yes") (kill-word 1)
+		   (backward-delete-char 1) (insert "\\dot{\\")
+		   (yank 1) (yank 2) (insert "}"))
+(progn (message "no") (forward-word)
+       (insert "\\dot{") (yank) (insert "}"))
+)
