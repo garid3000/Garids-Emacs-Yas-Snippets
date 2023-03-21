@@ -1,5 +1,0 @@
-# -*- mode: snippet -*-
-# name: physics-norm
-# key: norm
-# --
-\norm{ $0 } 

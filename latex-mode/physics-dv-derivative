@@ -1,5 +1,0 @@
-# -*- mode: snippet -*-
-# name: physics-dv-derivative
-# key: dv
-# --
-\dv[$1]{${2:f}}{${3:x}}
