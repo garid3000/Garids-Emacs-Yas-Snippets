@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: numberset_nsZ_whole
+# key: nsZ
+# --
+\mathbb{Z} 
