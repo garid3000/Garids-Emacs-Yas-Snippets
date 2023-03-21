@@ -2,8 +2,9 @@
 # name: eqa-equation
 # key: eqa
 # --
+
 \begin{equation}
-  \begin{align}
+\begin{aligned}
 	$0
-  \end{align}
+\end{aligned}
 \end{equation}
