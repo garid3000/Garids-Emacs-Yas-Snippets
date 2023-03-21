@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: im-inline_math
+# key: im
+# --
+\\( $0 \\)
