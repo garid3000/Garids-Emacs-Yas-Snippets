@@ -1,5 +1,11 @@
 # -*- mode: snippet -*-
 # name: sr-squared
 # key: sr
+# type: command
 # --
-`(delete-backward-char 1)`^{2}
+
+(if (= (preceding-char) ?\  )
+	(delete-backward-char 1)
+	(delete-backward-char 0)
+)
+(insert "^{2}")

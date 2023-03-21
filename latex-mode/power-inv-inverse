@@ -1,5 +1,10 @@
 # -*- mode: snippet -*-
 # name: inv-inverse
 # key: inv
+# type: command
 # --
-`(delete-backward-char 1)`^{-1}
+(if (= (preceding-char) ?\  )
+	(delete-backward-char 1)
+	(delete-backward-char 0)
+)
+(insert "^{-1}")
