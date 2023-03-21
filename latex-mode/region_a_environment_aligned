@@ -2,7 +2,7 @@
 # name: region_a_align
 # binding: M-r a
 # --
-\begin{align}
+\begin{aligned}
     `(replace-regexp-in-string "\n$" "" yas-selected-text)`
-\end{align}
+\end{aligned}
 `(deactivate-mark)`$0

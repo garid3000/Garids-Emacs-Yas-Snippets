@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
-# name: e-environment
-# key: e
+# name: env-environment
+# key: env
 # --
 \begin{${1:asdf}}
 $0

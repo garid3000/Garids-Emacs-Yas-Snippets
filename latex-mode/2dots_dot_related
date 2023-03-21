@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: ..-dot_related
+# key: ..
+# --
+\\${1:$$(yas-choose-value '("ldots" "cdot" "cdots" "vdots" "ddots"))}
