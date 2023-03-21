@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: nsub-notsubset
+# key: nsub
+# --
+\nsubset

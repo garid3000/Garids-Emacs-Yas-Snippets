@@ -1,9 +1,0 @@
-# -*- mode: snippet -*-
-# name: l-logic_and_sets
-# key: l
-# --
-\\${1:$$(yas-choose-value '("forall" "exists" "equiv" "lnot" "land" "lor" "neg"
-"mathbb\{R\}" "mathbb\{Z\}" "mathbb\{Q\}" "mathbb\{N\}" "mathbb\{C\}"
-"varnothing" "emptyset" "in" "notin" "cup" "cap" "subset" "subseteq" "supset" "supseteq"
-"anlge" "implies" "impliedby" "iff"
-))} $0

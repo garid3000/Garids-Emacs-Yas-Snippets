@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: !0-emptyset
+# key: !0
+# --
+\\emptyset $0
