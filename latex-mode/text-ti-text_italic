@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: ti-text_roman
+# key: ti
+# --
+\mathit{$1} $0

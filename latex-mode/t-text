@@ -1,5 +1,0 @@
-# -*- mode: snippet -*-
-# name: t-text
-# key: t
-# --
-\\${1:$$(yas-choose-value '("text" "mathcal" "mathscr" "mathbf" "mathbb" "mathsf" "mathfrak" "boldsymbol"))} \{${2:the_text}\} 

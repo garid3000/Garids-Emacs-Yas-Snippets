@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: tr-text_roman
+# key: tr
+# --
+\mathrm{$1} $0

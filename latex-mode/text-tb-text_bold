@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: tb-text_bold
+# key: tb
+# --
+\mathbf{$1} $0
