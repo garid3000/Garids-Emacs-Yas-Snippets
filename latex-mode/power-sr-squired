@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: sr-squared
+# key: sr
+# --
+`(delete-backward-char 1)`^{2}
