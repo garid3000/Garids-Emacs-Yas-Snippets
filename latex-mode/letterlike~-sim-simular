@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: ~-sim-simular
+# key: ~
+# --
+\\sim $0
