@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: diffcoeff-df-diff
+# key: df
+# --
+\diff {${1:f}} ${2:x}

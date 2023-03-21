@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: diffcoeff-dp-diffp-partial
+# key: dp
+# --
+\diffp {${1:f}} ${2:x}
