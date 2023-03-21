@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: col-colored
+# key: col
+# --
+\{\\color\{${1:$$(yas-choose-value '("black" "blue" "brown" "cyan" "darkgray" "gray" "green" "lightgray" "lime" "magenta" "olive" "orange" "pink" "purple" "red" "teal" "violet" "white" "yellow"))}\} $0 \}
