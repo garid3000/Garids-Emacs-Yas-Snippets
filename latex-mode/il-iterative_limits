@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: il-interal_limits
+# name: il-iterative_limits
 # key: il
 # --
 \limits_{${1:0}}^{${2:n}} $0
