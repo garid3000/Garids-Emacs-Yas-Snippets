@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
-# name: prev_slash_frac
-# key: /
+# name: prev_ve_vector
+# key: ve
 # type: command
 # --
 (backward-sexp) (kill-sexp)
@@ -9,13 +9,12 @@
 	(backward-word)
 	(if (= (preceding-char) ?\\ )
 		(progn (message "yes") (kill-word 1)
-			(backward-delete-char 1) (insert "\\frac{\\")
-			(yank 1) (yank 2) (insert "}{}"))
+			(backward-delete-char 1) (insert "\\vec{\\")
+			(yank 1) (yank 2) (insert "}"))
 		(progn (message "no") (forward-word)
-		(insert "\\frac{") (yank) (insert "}{}")))
+		(insert "\\vec{") (yank) (insert "}")))
 		)
 	(progn (message "no")
      	;(forward-word)
-       (insert "\\frac{") (yank) (insert "}{}"))
+       (insert "\\vec{") (yank) (insert "}"))
 )
-(backward-char)
