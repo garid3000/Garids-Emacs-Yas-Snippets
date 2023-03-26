@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: i2-index2
+# key: i2
+# type: command
+# --
+
+(if (= (preceding-char) ?\  )
+	(delete-backward-char 1)
+	(delete-backward-char 0)
+)
+(insert "_2")

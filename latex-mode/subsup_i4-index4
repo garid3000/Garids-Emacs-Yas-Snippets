@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: i4-index4
+# key: i4
+# type: command
+# --
+
+(if (= (preceding-char) ?\  )
+	(delete-backward-char 1)
+	(delete-backward-char 0)
+)
+(insert "_4")
