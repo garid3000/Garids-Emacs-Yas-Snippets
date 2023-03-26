@@ -1,0 +1,16 @@
+# -*- mode: snippet -*-
+# name: <lcalc-latex-cal:-times->cdot
+# key: <lcalc
+# --
+#+LATEX_HEADER: \let\oldtimes\times
+#+LATEX_HEADER: \let\times\cdot
+#+LATEX_HEADER: \def \Im {\mathrm{Im}}
+#+LATEX_HEADER: \def \Re {\mathrm{Re}}
+#+LATEX_HEADER: \def \dd {\mathop{}\!\mathrm{d}}
+
+or
+#+begin_export latex
+\let\oldtimes\times
+\let\times\cdot
+#+end_export
+
