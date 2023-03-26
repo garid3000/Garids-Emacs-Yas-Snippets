@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: c=_it_is_equal
+# key: c=
+# --
+\\stackrel{\\checkmark}{=} $0

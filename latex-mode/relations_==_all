@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
-# name: =-relations
-# key: =
+# name: ==-relations
+# key: ==
 # --
 \\${1:$$(yas-choose-value '(
 	"leq" "geq"
