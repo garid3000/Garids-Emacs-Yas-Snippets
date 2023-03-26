@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: --->-xrightarrow
+# key: --->
+# --
+\\xrightarrow[${2:bottom}]{${1:top}} $0
