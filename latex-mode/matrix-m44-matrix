@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
+# contributor: Garid Zorigoo <garidzorigoo@gmail.com>
 # name: m44-matrix
 # key: m44
-# condition: (texmathp)
 # --
 \begin\{${1:$$(yas-choose-value '("b" "v" "" "p"))}matrix\}
 	& $2 & $3 & $4 & $5 \\\\
