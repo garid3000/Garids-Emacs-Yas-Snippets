@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: region_b_box (mathtools)
-# binding: M-r b
+# name: region_t_text
+# binding: M-r t
 # --
-\\Aboxed\{`(yas-selected-text)`\} `(deactivate-mark)`$0
+\\mathrm\{`(yas-selected-text)`\} `(deactivate-mark)`$0
