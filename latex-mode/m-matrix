@@ -1,5 +1,0 @@
-# -*- mode: snippet -*-
-# name: m-matrix
-# key: m
-# --
-${1:$$(yas-choose-value '("" "p" "b" "B" "v" "V"))}matrix
