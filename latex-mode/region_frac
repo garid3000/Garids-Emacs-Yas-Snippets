@@ -1,9 +1,7 @@
 # -*- mode: snippet -*-
-# name: frac_region
+# name: region_frac_region
 # binding: M-r /
 # --
-\frac{
-    `(replace-regexp-in-string "\n$" "" yas-selected-text)`}
-{
+\frac{`(replace-regexp-in-string "\n$" "" yas-selected-text)`} {
 	$0
 }
