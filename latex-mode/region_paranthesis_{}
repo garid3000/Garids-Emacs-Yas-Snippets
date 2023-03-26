@@ -2,7 +2,7 @@
 # name: parenthesis_region_{}
 # binding: M-r { }
 # --
-\left{
+\left\\{
     `(replace-regexp-in-string "\n$" "" yas-selected-text)`
-\right}
+\right\\}
 `(deactivate-mark)`$0

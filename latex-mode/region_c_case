@@ -1,8 +1,8 @@
 # -*- mode: snippet -*-
-# name: region_e_environment
-# binding: M-r e
+# name: region_c_case
+# binding: M-r c
 # --
-\begin{${1:equation}}
+\begin{${1:cases}}
     `(replace-regexp-in-string "\n$" "" yas-selected-text)`
 \end{$1}
 `(deactivate-mark)`$0

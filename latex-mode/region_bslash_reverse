@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: region_bslash_reverse
+# binding: M-r |
+# --
+`(replace-regexp-in-string  "\\\\\\\\"  "\\\\\\\\\n" yas-selected-text)`

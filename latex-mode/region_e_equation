@@ -1,8 +1,8 @@
 # -*- mode: snippet -*-
-# name: parenthesis_region_[]
-# binding: M-r [ ]
+# name: region_e_equation
+# binding: M-r e
 # --
-\left[
+\begin{${1:equation}}
     `(replace-regexp-in-string "\n$" "" yas-selected-text)`
-\right]
+\end{$1}
 `(deactivate-mark)`$0
