@@ -3,4 +3,4 @@
 # name: src-cache
 # key: :cac
 # --
-:cache yes
+:cache ${1:$$(yas-choose-value '("yes" "no"))} $0

@@ -3,4 +3,4 @@
 # name: ses-session
 # key: :ses
 # --
-:session ${1:garidssess}
+:session ${1:garidssess} $0
