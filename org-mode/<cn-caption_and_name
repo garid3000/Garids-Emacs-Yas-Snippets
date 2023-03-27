@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: <cn-caption_and_name
+# key: <cn
+# --
+#+caption: $1
+#+name: ${2:$$(yas-choose-value '("table" "equation" "figure"))}:$3

@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# contributor: Garid Zorigoo <garidzorigoo@gmail.com>
+# name: imm-math_equation
+# key: imm
+# --
+\\[
+$0
+\\]
