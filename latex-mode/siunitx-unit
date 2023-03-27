@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# contributor: Garid Zorigoo <garidzorigoo@gmail.com>
+# name: siunitx-unit
+# key: unit
+# --
+\unit{$1} $0

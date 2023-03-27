@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# contributor: Garid Zorigoo <garidzorigoo@gmail.com>
+# name: siunitx-C-coulomb
+# key: C;
+# --
+\\coulomb 
