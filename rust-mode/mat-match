@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# contributor: Garid Zorigoo <garidzorigoo@gmail.com>
+# name: mat-match
+# key: mat
+# --
+match ${1:var} {
+	  $2 => $3,	
+	  $4 => $5, $0	
+}

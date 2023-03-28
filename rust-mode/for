@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# contributor: Garid Zorigoo <garidzorigoo@gmail.com>
+# name: for
+# key: for
+# --
+for ${1:_} in ${2:1..10} {
+	$0	
+}

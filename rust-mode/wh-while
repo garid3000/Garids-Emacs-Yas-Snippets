@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# contributor: Garid Zorigoo <garidzorigoo@gmail.com>
+# name: wh-while
+# key: wh
+# --
+while ${1:_} {
+	  $0
+}

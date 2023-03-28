@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# contributor: Garid Zorigoo <garidzorigoo@gmail.com>
+# name: fn-functions
+# key: fn
+# --
+fn ${1:_} (${2:arg:u32}) -> ${3:u32} {
+   $0 
+}

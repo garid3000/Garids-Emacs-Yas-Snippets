@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# contributor: Garid Zorigoo <garidzorigoo@gmail.com>
+# name: init_main-fn
+# key: init
+# --
+fn main(){
+   println!(${1:"Hello World"});
+}

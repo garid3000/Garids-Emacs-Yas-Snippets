@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# contributor: Garid Zorigoo <garidzorigoo@gmail.com>
+# name: lo-loop
+# key: lo
+# --
+loop {
+	$0 
+}
