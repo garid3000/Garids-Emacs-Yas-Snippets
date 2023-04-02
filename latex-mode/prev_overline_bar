@@ -1,0 +1,21 @@
+# -*- mode: snippet -*-
+# contributor: Garid Zorigoo <garidzorigoo@gmail.com>
+# name: prev_overline_bar
+# key: ba
+# type: command
+# --
+(backward-sexp) (kill-sexp)
+(if (looking-back "[a-zA-Z]" 0)
+	(progn
+	(backward-word)
+	(if (= (preceding-char) ?\\ )
+		(progn (message "yes") (kill-word 1)
+			(backward-delete-char 1) (insert "\\overline{\\")
+			(yank 1) (yank 2) (insert "}"))
+		(progn (message "no") (forward-word)
+		(insert "\\overline{") (yank) (insert "}")))
+		)
+	(progn (message "no")
+     	;(forward-word)
+       (insert "\\overline{") (yank) (insert "}"))
+)

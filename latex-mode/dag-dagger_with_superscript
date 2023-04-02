@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: dag-dagger_with_superscript
+# key: dag
+# --
+^\\dag 
