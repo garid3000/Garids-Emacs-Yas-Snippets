@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# contributor: Garid Zorigoo <garidzorigoo@gmail.com>
+# name: org_region_M-o_b_bold
+# binding: M-o b
+# --
+*`(yas-selected-text)`*

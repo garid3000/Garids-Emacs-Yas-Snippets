@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# contributor: Garid Zorigoo <garidzorigoo@gmail.com>
+# name: org_region_M-o_s_strikethrough
+# binding: M-o s
+# --
++`(yas-selected-text)`+

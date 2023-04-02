@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# contributor: Garid Zorigoo <garidzorigoo@gmail.com>
+# name: org_region_M-o_u_underline
+# binding: M-o u
+# --
+_`(yas-selected-text)`_
