@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: eval-never_export
+# key: :ev
+# --
+:eval never-export 
