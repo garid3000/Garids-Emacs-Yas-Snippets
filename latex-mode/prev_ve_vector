@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # contributor: Garid Zorigoo <garidzorigoo@gmail.com>
-# name: prev_ve_vector
-# key: ve
+# name: prev_;v_vector
+# key: ;v
 # type: command
 # --
 (backward-sexp) (kill-sexp)

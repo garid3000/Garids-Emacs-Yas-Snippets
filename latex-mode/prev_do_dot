@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # contributor: Garid Zorigoo <garidzorigoo@gmail.com>
-# name: prev_do_dot
-# key: do
+# name: prev_;d_dot
+# key: ;d
 # type: command
 # --
 (backward-sexp) (kill-sexp)

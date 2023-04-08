@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # contributor: Garid Zorigoo <garidzorigoo@gmail.com>
-# name: prev_ha_hat
-# key: ha
+# name: prev_;h_hat
+# key: ;h
 # type: command
 # --
 (backward-sexp) (kill-sexp)

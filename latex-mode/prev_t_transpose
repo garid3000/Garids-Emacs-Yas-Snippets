@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# contributor: Garid Zorigoo <garidzorigoo@gmail.com>
+# name: prev_;t_transpose
+# key: ;t
+# type: command
+# --
+
+(if (= (preceding-char) ?\  )
+	(delete-backward-char 1)
+	(delete-backward-char 0)
+)
+(insert "^{T}")
