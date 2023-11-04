@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: <otc-orgtransclude
+# key: <otc
+# --
+#+transclude:

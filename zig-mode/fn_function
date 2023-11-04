@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fn_function
+# key: fn
+# --
+fn ${1:functionName}(${2:x: u32}) ${3:u32} {
+    return ;
+}

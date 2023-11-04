@@ -1,6 +1,0 @@
-# -*- mode: snippet -*-
-# contributor: Garid Zorigoo <garidzorigoo@gmail.com>
-# name: <mon-org-latex-mongolian-input
-# key: <mon
-# --
-#+LATEX_HEADER: \\usepackage[english,mongolian]{babel}

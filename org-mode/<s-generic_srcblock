@@ -3,6 +3,6 @@
 # name: src-block
 # key: <s
 # --
-#+begin_src ${1:$$(yas-choose-value '("text" "example" "shell" "python" "bash" "c"))}
+#+begin_src ${1:$$(yas-choose-value '("text" "example" "sh" "python" "bash" "c" "nim"))}
 $0
 #+end_src

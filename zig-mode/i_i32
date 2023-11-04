@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: i_i32
+# key: i
+# --
+i32 $0

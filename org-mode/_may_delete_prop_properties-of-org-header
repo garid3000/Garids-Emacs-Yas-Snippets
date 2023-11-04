@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: prop_properties-of-org-header
+# key: :prop
+# --
+:properties:
+$0
+:end:

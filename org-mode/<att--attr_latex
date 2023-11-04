@@ -2,4 +2,4 @@
 # name: <att--attr_latex
 # key: <att
 # --
-#+ATTR_LATEX: $0
+#+attr_latex: $0

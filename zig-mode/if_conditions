@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: if_conditions
+# key: if
+# --
+if ($1) {
+   $2;
+}

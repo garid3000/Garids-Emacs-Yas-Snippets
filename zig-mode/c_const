@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: c_const
+# key: c
+# --
+const $0

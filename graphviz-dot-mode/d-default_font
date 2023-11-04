@@ -3,6 +3,7 @@
 # name: d-default_font
 # key: d
 # --
-node [fontname="${1:$$(yas-choose-value '(\"Linux Libertine\" \"CMU\"))}", colorscheme=${2:$$(yas-choose-value '("blues3-9" "dark23-28" "grays3-9" "pastel13-19" "pastel23-28"))} ];      //font for nodes
+node [fontname="${1:$$(yas-choose-value '(\"Linux Libertine\" \"CMU\"))}", colorscheme=${2:$$(yas-choose-value '("blues3-9" "dark23-28" "grays3-9" "pastel13-19" "pastel23-28"))}, fontsize=18 ];      //font for nodes
 edge [fontname="$1"];      //font for edge
 fontname="$1"              //font for cluster label
+fontsize=20

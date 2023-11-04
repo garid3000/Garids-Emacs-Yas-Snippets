@@ -12,3 +12,4 @@
 #+LATEX_HEADER: \usepackage{derivative}       <= \pdv[order={i,j,k}]{f}{x,y,z}
 #+LATEX_HEADER: \usepackage[all]{xy}          <= \xymatrix{ A \ar[r] & B \ar[d] \\ D \ar[u] & C \ar[l] }
 #+LATEX_HEADER: \usepackage{mathtools}
+#+LATEX_HEADER_EXTRA: \usepackage{svg}

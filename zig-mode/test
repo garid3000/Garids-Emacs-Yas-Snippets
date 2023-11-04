@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: test
+# key: test
+# --
+test "${1:this test's name}" {
+    $2
+    try expect( ${0:x==1} );
+}

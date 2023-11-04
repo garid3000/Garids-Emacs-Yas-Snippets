@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: hdr_header-args
+# key: :hdr
+# --
+:header-args:  $0

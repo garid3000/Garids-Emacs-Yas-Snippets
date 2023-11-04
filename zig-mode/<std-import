@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: <std-import
+# key: <std
+# --
+const std = @import("std");
+$0

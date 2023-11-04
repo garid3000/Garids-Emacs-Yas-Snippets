@@ -2,4 +2,4 @@
 # name: eval-never_export
 # key: :ev
 # --
-:eval never-export 
+:eval ${1:$$(yas-choose-value '("never-export" "no"))}
