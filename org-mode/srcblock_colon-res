@@ -1,7 +1,0 @@
-# -*- mode: snippet -*-
-# contributor: Garid Zorigoo <garidzorigoo@gmail.com>
-# name: org-src-blocks-results
-# key: :res
-# --
-:results ${1:$$(yas-choose-value '("verbatim" "value" "output" "table" "file xxx :output-dir .../" "list" "scalar" "code" "draw" "html" "latex" "link" "org" "pp"
-))}

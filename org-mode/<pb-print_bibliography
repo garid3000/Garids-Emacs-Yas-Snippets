@@ -1,6 +1,0 @@
-# -*- mode: snippet -*-
-# contributor: Garid Zorigoo <garidzorigoo@gmail.com>
-# name: <pb-print_bibliography
-# key: <pb
-# --
-#+print_bibliography:

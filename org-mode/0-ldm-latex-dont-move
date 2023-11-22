@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# contributor: Garid Zorigoo <garidzorigoo@gmail.com>
+# name: (l)atex-(d)ont-(m)ove for fig/table/eq/listings
+# key: <ldm
+# --
+#+attr_latex: :placement [H]

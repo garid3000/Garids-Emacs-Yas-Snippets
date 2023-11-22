@@ -1,6 +1,0 @@
-# -*- mode: snippet -*-
-# contributor: Garid Zorigoo <garidzorigoo@gmail.com>
-# name: lc-list_comprehensions
-# key: lc
-# --
-[${1:_function(i)} for ${2:_i} in ${3:range(${4:_from,_to,_step})}${5:_condition}]

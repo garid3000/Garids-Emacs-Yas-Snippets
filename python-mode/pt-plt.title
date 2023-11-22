@@ -1,8 +1,0 @@
-# -*- mode: snippet -*-
-# contributor: Garid Zorigoo <garidzorigoo@gmail.com>
-# name: pt-plt.title
-# key: pt
-# --
-plt.title("${1:description}")
-plt.xlabel("${2:description}")
-plt.ylabel("${3:description}")

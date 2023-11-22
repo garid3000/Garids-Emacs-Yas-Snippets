@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: (out)put (f)ile as variable for sourceblock
+# key: <outfile
+# --
+#+header: :var ${1:output_file}=(concat org-download-image-dir  "/$2.svg")

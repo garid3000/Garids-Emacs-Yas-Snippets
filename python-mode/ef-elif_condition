@@ -1,7 +1,0 @@
-# -*- mode: snippet -*-
-# contributor: Garid Zorigoo <garidzorigoo@gmail.com>
-# name: ef-elif-condition
-# key: ef
-# --
-elif ${1:condition}:
-   $0

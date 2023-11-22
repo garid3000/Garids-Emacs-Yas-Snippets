@@ -1,5 +1,0 @@
-# -*- mode: snippet -*-
-# name: <img-w_image_width
-# key: <img-w
-# --
-#+attr_latex: :width 10cm

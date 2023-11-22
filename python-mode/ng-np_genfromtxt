@@ -1,6 +1,0 @@
-# -*- mode: snippet -*-
-# contributor: Garid Zorigoo <garidzorigoo@gmail.com>
-# name: ng-np_genfromtxt 
-# key: ng
-# --
-np.genfromtxt(${1:fname}, delimiter="${2:$$(yas-choose-value '("None" "," "\\t" "\\n"))}", skip_header=${3:0})

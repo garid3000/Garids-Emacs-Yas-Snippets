@@ -1,8 +1,0 @@
-# -*- mode: snippet -*-
-# contributor: Garid Zorigoo <garidzorigoo@gmail.com>
-# name: <bq-begin_quote
-# key: <bq
-# --
-#+begin_quote
-$0
-#+end_quote

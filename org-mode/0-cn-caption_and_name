@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: caption & name
+# key: <cn
+# --
+#+caption: $1
+#+name:    ${2:$$(yas-choose-value '("fig" "tbl" "eqn" "lst"))}-${3:description}

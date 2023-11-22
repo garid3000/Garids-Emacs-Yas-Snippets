@@ -1,0 +1,17 @@
+# -*- mode: snippet -*-
+# contributor: Garid Zorigoo <garidzorigoo@gmail.com>
+# name: try-try_except
+# key: tr
+# --
+try:
+	$0
+except Exception as err:
+	# error occurred, must handle
+	print(f"{err} has occurred")
+        sys.exit(1)
+else:
+	# no error
+	pass 
+finally:
+	# all finish
+	pass 

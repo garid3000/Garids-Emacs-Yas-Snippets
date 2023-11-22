@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# contributor: Garid Zorigoo <garidzorigoo@gmail.com>
+# name: plt.ti-plt.title
+# key: plt.ti
+# --
+plt.title("${1:title}")
+plt.xlabel("${2:x label}")
+plt.ylabel("${3:y label}")

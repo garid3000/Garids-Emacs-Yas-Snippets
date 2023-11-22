@@ -1,7 +1,0 @@
-# -*- mode: snippet -*-
-# contributor: Garid Zorigoo <garidzorigoo@gmail.com>
-# name: p-print
-# key: p
-# --
-print(${1:description})
-$0

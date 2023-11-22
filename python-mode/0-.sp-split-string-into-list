@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# contributor: Garid Zorigoo <garidzorigoo@gmail.com>
+# name: sp-split
+# key: .sp
+# --
+.split(",")
+$0

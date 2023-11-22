@@ -1,6 +1,0 @@
-# -*- mode: snippet -*-
-# contributor: Garid Zorigoo <garidzorigoo@gmail.com>
-# name: n-name
-# key: <n
-# --
-#+name: ${1:$$(yas-choose-value '("fig" "tab" "eq"))}:${2:description}

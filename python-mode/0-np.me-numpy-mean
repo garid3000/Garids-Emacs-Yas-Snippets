@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# contributor: Garid Zorigoo <garidzorigoo@gmail.com>
+# name: np.me-np.mean
+# key: np.me
+# --
+np.mean(${1:x_array}, axis=${2:0}, dtype=${3:$$(yas-choose-value '("np.int64", "np.uint8", "np.float64"))})

@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# contributor: Garid Zorigoo <garidzorigoo@gmail.com>
+# name: cl-class
+# key: cl
+# --
+class ${1:classname}:
+	"""
+	$1
+	${2:description_string}
+	"""
+	def __init__(self) -> None:
+		$0

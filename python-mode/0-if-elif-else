@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# contributor: Garid Zorigoo <garidzorigoo@gmail.com>
+# name: if-if-elif-else
+# key: if
+# --
+if $1:
+	pass
+elif $1:
+	pass
+else:
+	pass

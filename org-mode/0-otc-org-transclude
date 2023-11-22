@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: (o)rg-(t)rans(c)lude
+# key: <otc
+# --
+#+transclude:

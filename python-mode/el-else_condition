@@ -1,7 +1,0 @@
-# -*- mode: snippet -*-
-# contributor: Garid Zorigoo <garidzorigoo@gmail.com>
-# name: el-else-condition
-# key: el
-# --
-else:
-   $0

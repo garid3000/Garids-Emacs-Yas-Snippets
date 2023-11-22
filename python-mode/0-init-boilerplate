@@ -1,0 +1,13 @@
+# -*- mode: snippet -*-
+# contributor: Garid Zorigoo <garidzorigoo@gmail.com>
+# name: init-main_function_boiler_plate
+# key: <init
+# --
+import sys
+
+def main() -> int:
+	$0
+	return 0
+
+if __name__ == '__main__':
+	sys.exit(main())

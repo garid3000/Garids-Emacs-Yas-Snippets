@@ -1,5 +1,0 @@
-# -*- mode: snippet -*-
-# name: eval-never_export
-# key: :ev
-# --
-:eval ${1:$$(yas-choose-value '("never-export" "no"))}

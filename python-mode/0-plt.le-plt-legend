@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# contributor: Garid Zorigoo <garidzorigoo@gmail.com>
+# name: plt.le-plt.legend
+# key: plt.le
+# --
+plt.legend()

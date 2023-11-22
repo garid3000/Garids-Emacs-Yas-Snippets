@@ -1,0 +1,13 @@
+# -*- mode: snippet -*-
+# contributor: Garid Zorigoo <garidzorigoo@gmail.com>
+# name: de-function_decleration
+# key: de
+# --
+def ${1:func_name}(${2:args}) -> ${3:None}:
+	"""
+	function: $1
+	args:     $2
+	return:   $3
+	"""
+	$0
+	return

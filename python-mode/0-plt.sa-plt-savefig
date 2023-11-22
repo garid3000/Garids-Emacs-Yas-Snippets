@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# contributor: Garid Zorigoo <garidzorigoo@gmail.com>
+# name: plt.sa-plt.savefig
+# key: plt.sa
+# --
+plt.savefig("${1:fname}.${2:$$(yas-choose-value '("png" "svg"))}"${3:$$(yas-choose-value '("" ", dpi=300"))})

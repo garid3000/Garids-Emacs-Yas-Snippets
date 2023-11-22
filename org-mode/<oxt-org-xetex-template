@@ -1,5 +1,0 @@
-# -*- mode: snippet -*-
-# name: <oxt-org-latex-export-template  
-# key: <oxt
-# --
-#+setupfile: ~/.config/emacs/org-templates/level-0-xelatex-fonts-conf.org

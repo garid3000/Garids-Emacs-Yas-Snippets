@@ -1,8 +1,0 @@
-# -*- mode: snippet -*-
-# contributor: Garid Zorigoo <garidzorigoo@gmail.com>
-# name: <bc-begin_center
-# key: <bc
-# --
-#+begin_center
-$0
-#+end_center

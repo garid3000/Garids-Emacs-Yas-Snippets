@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: LaTeX image width
+# key: <imgw
+# --
+#+attr_latex: :width 8in

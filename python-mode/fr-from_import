@@ -1,6 +1,0 @@
-# -*- mode: snippet -*-
-# contributor: Garid Zorigoo <garidzorigoo@gmail.com>
-# name: fr-from_import
-# key: fr
-# --
-from ${1:$$(yas-choose-value '("PIL" ""))} import ${2:$$(yas-choose-value '("Image" ""))}

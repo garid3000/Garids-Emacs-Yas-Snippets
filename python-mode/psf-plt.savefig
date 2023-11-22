@@ -1,6 +1,0 @@
-# -*- mode: snippet -*-
-# contributor: Garid Zorigoo <garidzorigoo@gmail.com>
-# name: psf-plt.savefig
-# key: psf
-# --
-plt.savefig("${1:fname}.png", dpi=${2:$$(yas-choose-value '("300" "400"))})

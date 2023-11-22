@@ -1,6 +1,0 @@
-# -*- mode: snippet -*-
-# contributor: Garid Zorigoo <garidzorigoo@gmail.com>
-# name: org-startup
-# key: <hdr-start
-# --
-#+startup: ${1:$$(yas-choose-value '("overview" "content" "showall" "showeverything" "show2levels"  "show3levels"  "show4levels"  "show5levels"))}
