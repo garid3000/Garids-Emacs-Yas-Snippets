@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
 # contributor: Garid Zorigoo <garidzorigoo@gmail.com>
-# name: np.ge-np_genfromtxt 
-# key: np.ge
+# name: np.genfromtxt...  (garid's snippet)
+# key: np.genfromtxt>
 # --
 np.genfromtxt(${1:fname}, delimiter="${2:$$(yas-choose-value '("None" "," "\\t" "\\n"))}", skip_header=${3:0})

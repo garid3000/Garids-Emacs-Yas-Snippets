@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
 # contributor: Garid Zorigoo <garidzorigoo@gmail.com>
-# name: []-list_comprehensions
-# key: <[]
+# name: []-list_comprehensions (garid's snippet)
+# key: []>
 # --
 [${1:i} for ${2:i} in ${3:aList}]

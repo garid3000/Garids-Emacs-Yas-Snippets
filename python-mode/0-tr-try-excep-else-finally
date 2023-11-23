@@ -1,17 +1,17 @@
 # -*- mode: snippet -*-
 # contributor: Garid Zorigoo <garidzorigoo@gmail.com>
-# name: try-try_except
-# key: tr
+# name: try except else final... (garid's snippet)
+# key: try-except-else-final>
 # --
 try:
-	$0
+    $0
 except Exception as err:
-	# error occurred, must handle
-	print(f"{err} has occurred")
-        sys.exit(1)
+    # error occurred, must handle
+    print(f"{err} has occurred")
+    sys.exit(1)
 else:
-	# no error
-	pass 
+    # no error
+    pass 
 finally:
-	# all finish
-	pass 
+    # all finish
+    pass 

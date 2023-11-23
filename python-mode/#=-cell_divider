@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: #=-cell_divider
-# key: #=>
+# name: #=-cell_divider (garid's snippet)
+# key: ######>
 # --
 # == `(evil-normal-state 1)`$0==========================================================================

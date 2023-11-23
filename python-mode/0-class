@@ -1,12 +1,12 @@
 # -*- mode: snippet -*-
 # contributor: Garid Zorigoo <garidzorigoo@gmail.com>
-# name: cl-class
-# key: cl
+# name: class (garid's snippet)
+# key: class>
 # --
-class ${1:classname}:
-	"""
-	$1
-	${2:description_string}
-	"""
-	def __init__(self) -> None:
-		$0
+class ${1:Class_name_usually_1st_letter_is_Capital}:
+    """
+    Class:       $1
+    Description: ${2:description_string}
+    """
+    def __init__(self) -> None:
+        $0

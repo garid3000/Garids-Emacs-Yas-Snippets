@@ -1,6 +1,0 @@
-# -*- mode: snippet -*-
-# contributor: Garid Zorigoo <garidzorigoo@gmail.com>
-# name: plt.gr-plt.grid
-# key: plt.gr
-# --
-plt.grid("on")

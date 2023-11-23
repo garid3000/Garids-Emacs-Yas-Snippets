@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
 # contributor: Garid Zorigoo <garidzorigoo@gmail.com>
-# name: as-assert
-# key: as
+# name: assert (garid's snippet)
+# key: assert>
 # --
 assert ${1:Expr}, f'Expected ${2:value} but got {${3:var}=}'

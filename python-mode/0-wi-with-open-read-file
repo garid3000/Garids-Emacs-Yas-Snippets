@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # contributor: Garid Zorigoo <garidzorigoo@gmail.com>
-# name: wi-with-open-file
-# key: wi
+# name: with-open-file... (garid's snippet)
+# key: with-open>
 # --
 with ${1:open(\"${2:fname.txt})\"} as ${3:f}:
-	${4:lines=$3.readlines()}
+    ${4:lines=$3.readlines()}

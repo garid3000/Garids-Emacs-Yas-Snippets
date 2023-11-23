@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # contributor: Garid Zorigoo <garidzorigoo@gmail.com>
-# name: plt.ti-plt.title
-# key: plt.ti
+# name: plt.title xlabel ylabel... (garid's snippet)
+# key: plt.title>
 # --
 plt.title("${1:title}")
 plt.xlabel("${2:x label}")

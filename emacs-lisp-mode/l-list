@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
 # contributor: Garid Zorigoo <garidzorigoo@gmail.com>
-# name: l-list 
-# key: l
+# name: <l-list 
+# key: <li
 # --
 (list ${1:elements})

@@ -1,6 +1,14 @@
 # -*- mode: snippet -*-
 # contributor: Garid Zorigoo <garidzorigoo@gmail.com>
-# name: im-import_common_libs
-# key: im
+# name: import common libs (garid's snippet)
+# key: import>
 # --
-import ${1:$$(yas-choose-value '("numpy as np" "matplotlib.pyplot as plt" "pandas" "os" "sys" "pickle" "os.path" "pathlib"))}
+import ${1:$$(yas-choose-value '(
+        "numpy as np"
+        "matplotlib.pyplot as plt"
+        "pandas"
+        "os"
+        "sys"
+        "pickle"
+        "os.path as path"
+        "pathlib"))}
