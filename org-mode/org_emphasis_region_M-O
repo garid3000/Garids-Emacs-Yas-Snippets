@@ -1,6 +1,0 @@
-# -*- mode: snippet -*-
-# contributor: Garid Zorigoo <garidzorigoo@gmail.com>
-# name: org_emphasis_region_M-o
-# binding: M-O
-# --
-${1:$$(yas-choose-value '("*" "/" "_" "=" "~" "+"))}`(yas-selected-text)`$1
