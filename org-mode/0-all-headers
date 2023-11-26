@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
-# name: all headers of top of org file
-# key:  headers
+# name: org file headers (startup, title, author, email, setupfile ...)
+# key:  headers>
 # --
 #+startup:      show2levels
 #+title:        $1

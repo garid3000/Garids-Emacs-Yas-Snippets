@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
 # contributor: Garid Zorigoo <garidzorigoo@gmail.com>
-# name: include org file
-# key: <inc
+# name: include org-file (included in exported PDF/HTML/... files)
+# key: inc>
 # --
 #+include: "${1:/home/garid/roamnotes/...}" :minlevel ${2:1}

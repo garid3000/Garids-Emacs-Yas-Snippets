@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
 # contributor: Garid Zorigoo <garidzorigoo@gmail.com>
 # name: np.zeros... (garid's snippet)
-# key: np.zeros>
+# key: npze>
 # --
 np.zeros((${1:shape}, ${2:shape}), dtype=${3:$$(yas-choose-value '("np.uint8" "np.float64" "np.int64"))})

@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # contributor: Garid Zorigoo <garidzorigoo@gmail.com>
-# name: class (garid's snippet)
-# key: class>
+# name: class ...
+# key: <cla
 # --
 class ${1:Class_name_usually_1st_letter_is_Capital}:
     """

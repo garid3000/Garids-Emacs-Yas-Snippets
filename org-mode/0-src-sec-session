@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
 # contributor: Garid Zorigoo <garidzorigoo@gmail.com>
-# name: ses-session
-# key: :ses
+# name: src-block :session... (for python session)
+# key: ses;
 # --
-:session ${1:garidssess} $0
+:session ${1:MyPySession} $0

@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
 # contributor: Garid Zorigoo <garidzorigoo@gmail.com>
 # name: np.savetxt... (garid's snippet) 
-# key: np.savetxt>
+# key: npsa>
 # --
 np.savetxt("${1:fname}.${2:csv}", ${3:data}, fmt='%10.4f', delimiter=${4:$$(yas-choose-value '("," "\\t"))} header=${5:""})

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: test-key-some-random-name
+# key: :test_key
+# --
+:test_key ${1:$$(yas-choose-value '("asdf" "qwer" "zxcv"))}

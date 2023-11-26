@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
 # contributor: Garid Zorigoo <garidzorigoo@gmail.com>
-# name: (l)atex-(d)ont-(m)ove for fig/table/eq/listings
-# key: <ldm
+# name: latex-dont-move (don't let figure/table move into different subheading)
+# key: ldm>
 # --
 #+attr_latex: :placement [H]

@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # contributor: Garid Zorigoo <garidzorigoo@gmail.com>
 # name: import common libs (garid's snippet)
-# key: import>
+# key: imp>
 # --
 import ${1:$$(yas-choose-value '(
         "numpy as np"

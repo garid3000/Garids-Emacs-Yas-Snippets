@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
 # contributor: Garid Zorigoo <garidzorigoo@gmail.com>
-# name: <ipy-include_python_file 
-# key: <ipy
+# name: include src-file (included in exported PDF/HTML/... files)
+# key: incsrc>
 # --
 #+include: "${1:/home/garid/test.py}" src py

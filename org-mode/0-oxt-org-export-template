@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: (o)rg-latex-e(x)port-(t)emplate  
-# key: <oxt
+# name: oxt  org-export-template
+# key: oxt>
 # --
 #+setupfile: ~/.config/emacs/org-templates/level-0-xelatex-fonts-conf.org

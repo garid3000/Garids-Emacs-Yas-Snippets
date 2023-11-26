@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
-# name: caption & name
-# key: <cn
+# name: caption & name (for figures/fables/src-block)
+# key: cn>
 # --
 #+caption: $1
-#+name:    ${2:$$(yas-choose-value '("fig" "tbl" "eqn" "lst"))}-${3:description}
+#+name:    ${2:$$(yas-choose-value '("fig" "tbl" "eqn" "lst"))}-${3:this-should-unique-identifier}

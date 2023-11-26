@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
 # contributor: Garid Zorigoo <garidzorigoo@gmail.com>
 # name: np.mean... (garid's snippet)
-# key: np.mean>
+# key: npme>
 # --
 np.mean(${1:x_array}, axis=${2:0}, dtype=${3:$$(yas-choose-value '("np.int64", "np.uint8", "np.float64"))})

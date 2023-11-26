@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: (cap)tion
-# key: <cap
+# name: caption for (figure/table/src-block)
+# key: c>
 # --
 #+caption: $0
