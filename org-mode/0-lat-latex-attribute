@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
 # name: latex_attribute
-# key: lat>
+# key: <lat
 # --
 #+attr_latex: $0

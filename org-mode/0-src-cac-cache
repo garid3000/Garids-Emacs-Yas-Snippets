@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
 # contributor: Garid Zorigoo <garidzorigoo@gmail.com>
 # name: src-block :cache... (caching evaluation)
-# key: cac>
+# key: :cac
 # --
 cache ${1:$$(yas-choose-value '("yes" "no"))} $0

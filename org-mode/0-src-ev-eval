@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
 # name: src-block :eval... (evaluating src-block)
-# key: eva>
+# key: <eva
 # --
 :eval ${1:$$(yas-choose-value '("never-export" "no"))}

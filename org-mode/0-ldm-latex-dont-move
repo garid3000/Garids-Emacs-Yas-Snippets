@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
 # contributor: Garid Zorigoo <garidzorigoo@gmail.com>
 # name: latex-dont-move (don't let figure/table move into different subheading)
-# key: ldm>
+# key: <ldm
 # --
 #+attr_latex: :placement [H]

@@ -1,13 +1,13 @@
 # -*- mode: snippet -*-
 # name: org file headers (startup, title, author, email, setupfile ...)
-# key:  headers>
+# key:  <headers
 # --
 #+startup:      show2levels
 #+title:        $1
 #+author:       ${2:$$(yas-choose-value '("Garid Z." "Badamgarav E."))}
 #+creator:      $2
 #+email:        ${3:$$(yas-choose-value '("garidzorigoo@gmail.com" "badamgaravenkhbayar@gmail.com"))}
-#+date:         $0
+#+date:         \\today
 #+auto_tangle:  ${4:$$(yas-choose-value '("nil" "t"))}
 #+setupfile:    ~/.config/emacs/org-templates/level-0-xelatex-fonts-conf.org
 #+options:      toc:${5:$$(yas-choose-value '("t" "2" "nil"))} tags:${6:$$(yas-choose-value '("nil" "t"))}  todo:${7:$$(yas-choose-value '("t" "nil"))}  tasks:${8:$$(yas-choose-value '("t" "nil"))}

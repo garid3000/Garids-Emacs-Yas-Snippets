@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
 # contributor: Garid Zorigoo <garidzorigoo@gmail.com>
 # name: src-block :exports... (for PDF, HTML)
-# key: exp>
+# key: :exp
 # --
 :exports ${1:$$(yas-choose-value '("code" "results" "both" "none"))}

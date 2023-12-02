@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
 # contributor: Garid Zorigoo <garidzorigoo@gmail.com>
 # name: name (for naming figure/table/equation/listing)
-# key: n>
+# key: <n
 # --
 #+name: ${1:$$(yas-choose-value '("fig" "tbl" "eqn" "lst"))}-${2:description}

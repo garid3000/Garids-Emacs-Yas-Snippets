@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # contributor: Garid Zorigoo <garidzorigoo@gmail.com>
 # name: src-block src>
-# key: src>
+# key: <src
 # --
 #+begin_src ${1:$$(yas-choose-value '("" "text" "example" "sh" "python" "bash" "c" "nim" "make"))}
 $0
