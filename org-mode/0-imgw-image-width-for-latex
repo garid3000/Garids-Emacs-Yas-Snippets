@@ -2,4 +2,5 @@
 # name: LaTeX image width
 # key: <imgw
 # --
-#+attr_latex: :width 8in
+#+attr_latex: :width 0.9\textwidth
+#+attr_html:  :width 100% :height 100%

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ox-reveal .js file
+# key: <oxr
+# --
+#+reveal_root: https://cdn.jsdelivr.net/npm/reveal.js
+#+reveal_theme: ${1:$$(yas-choose-value '("black" "white" "league" "beige" "night" "serif" "solarized" "moon" "dracula" "sky" "blood"))}
+#+reveal_init_options: width:1920, height:1080
