@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: <imp - image path
+# key: <imp
+# --
+#+header: :var ${1:var_output_path}=(concat (file-name-as-directory org-download-image-dir)  "${2:file.svg}")
