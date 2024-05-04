@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: <r2col - org reveal 2 column
+# key: <r2col
+# --
+#+REVEAL_HTML: <div class="column" style="float:left; width:50%">
+#+REVEAL_HTML: </div>
+
+#+REVEAL_HTML: <div class="column" style="float:right; width:50%">
+#+REVEAL_HTML: </div>

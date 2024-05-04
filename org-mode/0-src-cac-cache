@@ -3,4 +3,4 @@
 # name: src-block :cache... (caching evaluation)
 # key: :cac
 # --
-cache ${1:$$(yas-choose-value '("yes" "no"))} $0
+:cache ${1:$$(yas-choose-value '("yes" "no"))} $0

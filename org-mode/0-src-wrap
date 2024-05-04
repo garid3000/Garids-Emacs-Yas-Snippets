@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: wrapping results with begin_...
+# key: :wrap
+# --
+:wrap ${1:$$(yas-choose-value '("example" "src python" "src sh" "src bash"))}

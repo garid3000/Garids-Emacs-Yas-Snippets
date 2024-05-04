@@ -3,4 +3,4 @@
 # name: src-block :results... (type of result after eval)
 # key: :res
 # --
-results ${1:$$(yas-choose-value '("verbatim" "value" "output" "table" "file xxx :output-dir .../" "list" "scalar" "code" "draw" "html" "latex" "link" "org" "pp"))}
+:results ${1:$$(yas-choose-value '("verbatim" "value" "output" "table" "file xxx :output-dir .../" "list" "scalar" "code" "draw" "html" "latex" "link" "org" "pp"))}

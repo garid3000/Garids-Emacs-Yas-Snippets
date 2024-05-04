@@ -3,6 +3,6 @@
 # name: al-align
 # key: al
 # --
-\begin{align}
+\begin{aligned}
 $0
-\end{align}
+\end{aligned}
